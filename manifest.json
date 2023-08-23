@@ -71,5 +71,8 @@
   "vueVersion": "3",
   "h5": {
     "title": "sdapi"
+  },
+  "networkTimeout": {
+  	"request": 300000 //多长时间算超时(单位毫秒)
   }
 }
